@@ -1,0 +1,31 @@
+.border{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    width: 500px;
+    background-color: rgb(199, 168, 229);
+    
+}
+.button{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    background-color: rgb(144, 139, 218);
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.head{
+    text-align: center;
+    color: darkolivegreen;
+    text-decoration: underline;
+}
+html,body{
+    background-color: rgb(166, 212, 238);
+}
